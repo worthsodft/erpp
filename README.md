@@ -1,13 +1,6 @@
 # 进销存系统说明书
 
 ## 一、版本对比
-
-<style>
-    body{
-        margin: 0 auto;
-    }
-</style>
-
 <table>
     <thead>
         <tr>
